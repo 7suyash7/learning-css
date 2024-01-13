@@ -11,6 +11,7 @@ html {
   right: 0;
   z-index: 1000;
   width: 300px;
+  cursor: move;
 }
 
 body {
